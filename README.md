@@ -1,2 +1,2 @@
 # DataCleaning_HeartDisease
-An exercise to practice data cleaning 
+An exercise to practice basic data cleaning
